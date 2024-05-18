@@ -1,1 +1,2 @@
 Hello world, or goodbye?
+Probably both.
